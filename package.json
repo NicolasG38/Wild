@@ -1,0 +1,32 @@
+{
+  "type": "module",
+  "name": "wilders",
+  "version": "0.0.1",
+  "description": "prenom_de_mes_collegues",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicolasG38/Atelier2503.git"
+  },
+  "keywords": [
+    "titi"
+  ],
+  "author": "nicolas_girard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicolasG38/Atelier2503/issues"
+  },
+  "homepage": "https://github.com/NicolasG38/Atelier2503#readme",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "dependencies": "^0.0.1",
+    "in": "^0.19.0",
+    "index.js": "^0.0.3",
+    "installed": "^3.3.1",
+    "package.json": "^2.0.1"
+  }
+}
